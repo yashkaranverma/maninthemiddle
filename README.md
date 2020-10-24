@@ -5,7 +5,8 @@ Requirements
 
 python3
 
-Installion & Usage
+
+installation & Usage
 
 git clone https://github.com/yashkaranverma/maninthemiddle.git
 
