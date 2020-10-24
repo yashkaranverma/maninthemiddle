@@ -1,4 +1,4 @@
-# maninthemiddle
+# Sniffer
 Snifer is a tool that is used in man in the middle attack.
 
 Requirements
@@ -8,7 +8,7 @@ python3
 
 installation & Usage
 
-git clone https://github.com/yashkaranverma/maninthemiddle.git
+git clone https://github.com/yashkaranverma/sniffer.git
 
 cd maninthemiddle
 
